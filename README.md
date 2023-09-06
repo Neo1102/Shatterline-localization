@@ -23,8 +23,8 @@
 風險請自行承擔  
   
 使用方式  
-將整個en-us資料夾壓縮成zip  
-並且命名為en-us_xml.pak  
+將整個en-us_xml資料夾壓縮成zip  
+並重新命名為en-us_xml.pak  
 覆蓋位於遊戲目錄下的en-us_xml.pak檔案  
 路徑 [Steam Libery位置]\Shatterline\game01\localization\en-us_xml.pak  
 進遊戲後將語言設為英文  
