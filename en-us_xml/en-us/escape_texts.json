@@ -1,0 +1,21 @@
+{
+    "entries": {
+        "@obj_escape_helipad": "Reach the Strafer helipad",
+        "@obj_escape_eliminate_enemy": "Eliminate the enemy",
+        "@obj_escape_forcefield_01": "Deactivate force field",
+        "@obj_escape_proceed_dock": "Proceed to Strafer dock",
+        "@obj_escape_forcefield_02": "Deactivate force field",
+        "@obj_escape_coast": "Proceed to the coast",
+        "@obj_escape_call_chopper": "Transmitting exfil coordinates",
+        "@obj_escape_helicopter": "Chopper en route",
+        "@plc_escape_strafer_gate": "STRAFER GATE",
+        "@plc_escape_helipad": "HELIPAD",
+        "@plc_escape_forklift": "ACTIVATE",
+        "@plc_escape_forcefield_01": "DEACTIVATE",
+        "@plc_escape_proceed_dock": "STRAFER DOCK",
+        "@plc_escape_coast": "COAST",
+        "@plc_escape_forcefield_02": "DEACTIVATE",
+        "@plc_escape_call_chopper": "CALL СHOPPER",
+        "@plc_escape_evacuatioin": "EXTRACTION"
+    }
+}

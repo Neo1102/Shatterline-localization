@@ -1,0 +1,38 @@
+{
+    "entries":
+    {
+        "@obj_deadlock_start": "OPEN THE GAME",
+        "@obj_deadlock_extra_stage": "SEARCH FOR SUPPLIES",
+        "@obj_unlock_the_lock": "UNLOCK THE LOCK",
+        "@eliminate_the_gatekeeper": "ELIMINATE THE GATEKEEPER",
+        "@the_gatekeeper_has_been_eliminated": "THE GATEKEEPER HAS BEEN ELIMINATED",
+        "@deadlock_two_teleports": "2 CHANCES TO SURVIVE AFTER THE FALL",
+        "@deadlock_one_teleport": "1 CHANCE TO SURVIVE AFTER THE FALL",
+        "@deadlock_no_teleports": "NO CHANCE TO SURVIVE AFTER THE FALL",
+        "@obj_deadlock_stage_01": "STAGE 1",
+        "@obj_deadlock_stage_02": "STAGE 2",
+        "@obj_deadlock_stage_03": "STAGE 3",
+        "@obj_deadlock_stage_04": "STAGE 4",
+        "@obj_deadlock_stage_05": "STAGE 5",
+        "@obj_deadlock_stage_06": "STAGE 6",
+        "@obj_deadlock_stage_07": "STAGE 7",
+        "@obj_deadlock_stage_08": "STAGE 8",
+        "@obj_deadlock_stage_09": "STAGE 9",
+        "@obj_deadlock_stage_10": "STAGE 10",
+        "@obj_deadlock_stage_11": "STAGE 11",
+        "@obj_deadlock_stage_12": "STAGE 12",
+        "@obj_deadlock_stage_13": "STAGE 13",
+        "@obj_deadlock_stage_14": "STAGE 14",
+        "@obj_deadlock_stage_15": "STAGE 15",
+        "@obj_deadlock_stage_16": "STAGE 16",
+        "@obj_deadlock_stage_17": "STAGE 17",
+        "@obj_deadlock_stage_18": "STAGE 18",
+        "@obj_deadlock_stage_19": "STAGE 19",
+        "@obj_deadlock_stage_20": "STAGE 20",
+        "@plc_deadlock_gun": "PICKAXE",
+        "@plc_deadlock_stage": "LOCK",
+        "@plc_deadlock_enemy": "THE GUY",
+        "@plc_deadlock_pick_up": "PICKUP",
+        "@deadlock_stage": "STAGE"
+    }
+}

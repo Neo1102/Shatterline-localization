@@ -1,0 +1,32 @@
+{
+    "entries": {
+        "@contamination_anomalies_season_name": "EXPEDITION: CONTAMINATION OVERLOAD",
+        "@horde_crystalline_levitation": "LEVITATING ANOMALY",
+        "@contamination_anomalies_name": "CONTAMINATION ANOMALIES",
+        "@contamination_anomalies_descr": "Anomalies that burst with contamination if you don't destroy them beforehand.",
+        "@travel_to_next_sector": "Traverse to another Sector",
+        "@expedition_2_title": "EXPEDITION: EXPLORATION",
+        "@expedition_2_briefing": "Your main goal is to gather Crystalline samples and valuable pieces of data. These can be located on the map by probing the surroundings with Environment Scanners.<div class='Br2'></div>In order to request supplies, a certain amount of resources is required. The more resources you have at hand when you extract, the more XP you will receive.",
+        "@obj_explore_sectors": "Explore sectors of the Zone",
+        "@crystalline_interference_name": "CRYSTALLINE INTERFERENCE",
+        "@crystalline_interference_descr": "Abilities charge slower. Destroy anomalies to recharge. Other players also get a share.",
+        "@infinite_contamination_name": "INFINITE CONTAMINATION",
+        "@infinite_contamination_descr": "Each contamination level after 5 reduces your max health by 20.",
+        "@immunity_breach_season_name": "EXPEDITION: IMMUNITY BREACH",
+        "@immunity_breach_name": "IMMUNITY BREACH",
+        "@immunity_breach_descr": "Operatives' immunity has been compromised. Regeneration rate is dramatically reduced.",
+        "@condensed_life_force_name": "CONDENSED LIFE FORCE",
+        "@condensed_life_force_descr": "Fallen enemies drop Life Cells that briefly intensify regeneration upon pickup.",
+        "@extreme_expedition_event_name": "EVENT: EXTREME EXPEDITION",
+        "@extreme_expedition_mod_name": "EXTREME",
+        "@extreme_expedition_mod_descr": "Enemies are tougher and more agressive. Precision damage to enemies is increased.",
+        "@initial_contamination_name": "CONTAMINATION OVERDOSE",
+        "@initial_contamination_descr": "You start with 2 levels of Contamination.",
+        "@bodybuilder_season_name": "EXPEDITION: BODYBUILDER",
+        "@bodybuilder_mod_name": "BODYBUILDER",
+        "@bodybuilder_mod_descr": "Health Cap grows when defeating an enemy depending on perk type. Resets on death. You start with a Sidearm Bodybuilder perk.",
+        "@corrupted_vitality_name": "CORRUPTED VITALITY",
+        "@corrupted_vitality_descr": "You start with 2/3 of your max health.",
+        "@hp_cap_decreased_message": "<span style='color: #f4be34; font-size: 3.33vh;' class='FontMedium'>YOUR  MAXIMUM  HEALTH  IS  REDUCED  BY  20</span>"
+    }
+}

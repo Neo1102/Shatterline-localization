@@ -1,0 +1,32 @@
+{
+    "entries": {
+        "@computer_puzzle_lock": "CRYPTEX LOCK",
+        "@extraction_item_pickup": "CONTAMINATED CANISTER",
+        "@ground_button": "PRESSURE PLATE",
+        
+        "@ranked_rank_platinum_04": "PLATINUM IV",
+        "@ranked_rank_platinum_03": "PLATINUM III",
+        "@ranked_rank_platinum_02": "PLATINUM II",
+        
+        "@resurrection_pod_hud1": "<div style='color:#92fcb9'>Lazarus Tool</div>(5%)",
+        "@resurrection_pod_hud2": "<div style='color:#92fcb9'>Lazarus Tool</div>(10%)",
+        "@resurrection_pod_hud3": "<div style='color:#92fcb9'>Lazarus Tool</div>(15%)",
+        "@resurrection_pod_hud4": "<div style='color:#92fcb9'>Lazarus Tool</div>(20%)",
+        "@resurrection_pod_hud5": "<div style='color:#92fcb9'>Lazarus Tool</div>(25%)",
+        "@resurrection_pod_hud6": "<div style='color:#92fcb9'>Lazarus Tool</div>(30%)",
+        "@resurrection_pod_hud7": "<div style='color:#92fcb9'>Lazarus Tool</div>(35%)",
+        "@resurrection_pod_hud8": "<div style='color:#92fcb9'>Lazarus Tool</div>(40%)",
+        "@resurrection_pod_hud9": "<div style='color:#92fcb9'>Lazarus Tool</div>(45%)",
+        "@resurrection_pod_hud10": "<div style='color:#92fcb9'>Lazarus Tool</div>(50%)",
+        "@resurrection_pod_hud11": "<div style='color:#92fcb9'>Lazarus Tool</div>(55%)",
+        "@resurrection_pod_hud12": "<div style='color:#92fcb9'>Lazarus Tool</div>(60%)",
+        "@resurrection_pod_hud13": "<div style='color:#92fcb9'>Lazarus Tool</div>(65%)",
+        "@resurrection_pod_hud14": "<div style='color:#92fcb9'>Lazarus Tool</div>(70%)",
+        "@resurrection_pod_hud15": "<div style='color:#92fcb9'>Lazarus Tool</div>(75%)",
+        "@resurrection_pod_hud16": "<div style='color:#92fcb9'>Lazarus Tool</div>(80%)",
+        "@resurrection_pod_hud17": "<div style='color:#92fcb9'>Lazarus Tool</div>(85%)",
+        "@resurrection_pod_hud18": "<div style='color:#92fcb9'>Lazarus Tool</div>(90%)",
+        "@resurrection_pod_hud19": "<div style='color:#92fcb9'>Lazarus Tool</div>(95%)",
+        "@resurrection_pod_hud20": "<div style='color:#92fcb9'>Lazarus Tool</div>(100%)"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "entries": {
+        "@CPandWIN": "Control the wagon",
+        "@rtdm_capture_the_point": "CAPTURE THE POINT!",
+        "@rtdm_round_won_by_point": "ROUND WON. YOUR TEAM HAS CAPTURED THE POINT.",
+        "@rtdm_round_lost_by_point": "ROUND LOST. ENEMY TEAM HAS CAPTURED THE POINT."
+    }
+}

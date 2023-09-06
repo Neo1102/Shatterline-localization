@@ -1,0 +1,18 @@
+{
+    "entries": {
+        "@obj_cybtrail_start": "Locate Interdimensional bubble",
+        "@obj_cybtrail_follow_ball": "Follow the bubble",
+        "@obj_cybertrail_reach_convoy": "Reach the Strafer hideout",
+        "@obj_cybtrail_launch_device": "Launch Strafer device",
+        "@obj_cybtrail_protect_device": "Protect the device",
+        "@obj_cybtrail_scan_anomalies": "Stay inside the bubble",
+        "@obj_cybtrail_anomaly_scanned": "Scanning successful",
+        "@obj_cybtrail_ball_destroyed": "Proceed to extraction",
+        "@obj_cybtrail_mission_completed": "Mission complete",
+        "@plc_cybertrail_dimension_veil": "Interdimensional bubble",
+        "@plc_cybertrail_veil_anomaly": "Veil anomaly",
+        "@plc_cybertrail_strafer_hideout": "Strafer hideout",
+        "@plc_cybertrail_overload_in": "OVERLOAD IN:",
+        "@plc_cybertrail_protect": "DEFEND"
+    }
+}
