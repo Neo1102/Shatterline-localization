@@ -78,7 +78,7 @@
         "@pvp_briefing": "Play a random PvP mode on a random map.<div class='Br2'></div>Complete objectives, win rewards, and have fun!",
         "@coop_playlist": "Play Episodes in a randomized order.<div class='Br2'></div>Dive into a thrilling sci-fi story that will take you to the far corners of Earth and beyond. Experience hope and despair, betrayal and comradery.<div class='Br2'></div>Prevent the apocalypse while there's still time!",
         "@tdm_briefing": "Fight as one of two teams until the limit of 80 frags is reached.<div class='Br2'></div>If neither team meets the frag count condition within 10 minutes, the winner is the team that accumulates the most frags.",
-        "@rtdm_briefing": "This is a round-based Team Deathmatch with no respawn during rounds. To win a round, a team must wipe out all of the opponents.<div class='Br2'></div>The first team to win 6 rounds achieves victory.",
+        "@rtdm_briefing": "This is a round-based Team Deathmatch with no respawn during rounds. To win a round, a team must wipe out all of the opponents.",
         "@ffa_briefing": "Competitive mode, where everyone is an enemy. Kill more, die less!<div class='Br2'></div>Earn your place on the final scoreboard!",
         "@conquest_briefing": "Take hold of hardpoints that randomly appear on the map. Each hardpoint conquered is a score boost for your team.<div class='Br2'></div>The winner is the team whose score is the highest after 15 minutes.",
         "@domination_briefing": "There are three active hardpoints on the map at any given time. Teams score by dominating the points.<div class='Br2'></div>The more points you control, the higher the score.",

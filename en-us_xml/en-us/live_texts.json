@@ -6,7 +6,9 @@
         
         "@expedition_bodybuilder_briefing": "The Impact Zone is evolving. It seems like the Crystalline has found a way to debilitate your physical shape. Upon arrival, you may experience overall weakness and lack of stamina.<div class='Br2'></div>In the supply bins you will find immunity stimulants that will help you cope with this condition. These stimulants are adrenaline-dependent, so you'll have to get into action to make them work.<div class='Br2'></div><span style='color: #f4be34;' class='FontMedium'>Extraction rewards:</span><div class='Br2'></div><span style='color: #f4be34;' class='FontMedium'>1 objective: 50 Credits, 2 Blueprints</span><div class='Br'></div><span style='color: #f4be34;' class='FontMedium'>2 objectives: 100 Credits, 4 Blueprints</span><div class='Br'></div><span style='color: #f4be34;' class='FontMedium'>3 objectives: 200 Credits, 8 Blueprints</span><div class='Br'></div><span style='color: #f4be34;' class='FontMedium'>4 objectives: 300 Сredits, 12 Blueprints</span>",
         "@expedition_extreme_briefing": "The Zone got tougher. Contamination is all over the place. Enemies are beefed up. Dare you enter?<div class='Br2'></div>Players may choose to extract after any completed objective or pursue further objectives for better rewards. However, if the whole team dies, all rewards are halved.<div class='Br2'></div><span style='color: #f4be34;' class='FontMedium'>Extraction rewards:</span><div class='Br2'></div><span style='color: #f4be34;' class='FontMedium'>1 objective: 50 Credits, 2 Blueprints</span><div class='Br'></div><span style='color: #f4be34;' class='FontMedium'>2 objectives: 100 Credits, 4 Blueprints</span><div class='Br'></div><span style='color: #f4be34;' class='FontMedium'>3 objectives: 250 Credits, 10 Blueprints</span><div class='Br'></div><span style='color: #f4be34;' class='FontMedium'>4 objectives: 500 Сredits, 20 Blueprints</span>",
+        "@escort_perk_briefing": "Play Escort with Operatives' PvE skills! Total mayhem: every character comes fully upgraded for this event!<div class='Br2'></div>Disclaimer: this game mode is most definitely not balanced at all. Own or be owned.",
         
+        "@event_escort_perk": "EVENT: PERKY ESCORT",
         "@event_badge_pve": "COOP MODE",
         "@event_badge_pvp": "VERSUS",
         "@event_badge_weekly": "WEEKLY EVENTS",
@@ -46,6 +48,7 @@
         "@event_rtdm_3vs3": "EVENT: 3 VS 3",
         "@event_ptb_fast_ult": "EVENT: SUPERCHARGED DEMOLITION",
         "@event_dmn_fast_ult": "EVENT: SUPERCHARGED DOMINATION",
-        "@event_esc_barracuda": "EVENT: ESCORT BARRACUDA"
+        "@event_esc_barracuda": "EVENT: ESCORT BARRACUDA",
+        "@event_tdm_conq_dmn_promenade": "EVENT: PROMENADE"
     }
 }

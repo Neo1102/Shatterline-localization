@@ -58,6 +58,8 @@
         "@tip_sync_entitlements_failed": "We failed to sync your purchase. We will try again with your next purchase or next login.",
         "@tip_authentication_forbidden_no_privilege": "The servers are closed for maintenance.",
         "@tip_egs_token_error": "Please make sure Epic Games Launcher is in Online mode. Try again.",
-        "@tip_not_enough_consumed_items": "Not enough consumable items to continue operation."
+        "@tip_not_enough_consumed_items": "Not enough consumable items to continue operation.",
+        "@tip_eos_jwt_verification_error": "EOS Identity Provider not responding. Please contact live support.",
+        "@tip_detail_qos_limit_reached": "Oops, we are trying to send too many requests. Please report this issue."
     }
 }

@@ -20,6 +20,8 @@
         "@darkzone_decapturing": "Beacon expiry",
         "@coil_capturing": "Calibrating",
         "@coil_decapturing": "Calibrating",
+        "@step_completed": "Step completed",
+        "@insert_sample": "Insert sample",
         "@plc_regroup": "Regroup",
         "@plc_str_outpost": "Strafer Outpost",
         "@plc_square_gate": "Business Bay Square",

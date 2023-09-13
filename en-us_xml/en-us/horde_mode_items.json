@@ -268,7 +268,15 @@
         "@heal_on_ammo_pickup_descr": "Instantly restore some health when picking up ammo.",
         "@reload_on_ammo_pickup_name": "AUTOMATIC RELOADER",
         "@reload_on_ammo_pickup_descr": "Picking up ammo also reloads the selected weapon.",
+        "@damage_connector_perk_name": "CHAINS OF AGONY",
+        "@damage_connector_perk_descr": "When you hit an enemy with a secondary weapon, there is a chance all damage will also be applied to another random enemy within range.",
         "@salt_drop_perk_name": "SALTY SHOT",
-        "@salt_drop_perk_descr": "Enemies have a chance to drop Red Salt upon death."
+        "@salt_drop_perk_descr": "Enemies have a chance to drop Red Salt upon death.",
+        
+        "@armor_vest_name": "ARMOR VEST",
+        "@buff_type_armor_vest": "Armor plate carrier.",
+        "@armor_vest_2_slot_descr": "Allows inserting up to 2 armor plates.",
+        "@armor_vest_3_slot_descr": "Allows inserting up to 3 armor plates.",
+        "@armor_vest_4_slot_descr": "Allows inserting up to 4 armor plates."
     }
 }
